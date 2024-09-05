@@ -1,6 +1,6 @@
 # Dummy-Repo
-To check how pushing commits to open repos work via pull req
 
+All main branch rules here
 # Purpose
 The purpose of BookMatch is to offer users an intuitive and dynamic way to discover new books tailored to their tastes. By combining user input with the power of generative AI, BookMatch aims to provide highly relevant and enjoyable book suggestions.
 
