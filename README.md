@@ -1,13 +1,5 @@
 # Dummy-Repo
-
-All main branch rules here
-# Purpose
-The purpose of BookMatch is to offer users an intuitive and dynamic way to discover new books tailored to their tastes. By combining user input with the power of generative AI, BookMatch aims to provide highly relevant and enjoyable book suggestions.
-
-# Workflow
-1. Genre Selection:
-- Users start by opting out of genres they are not interested in.
-- Initial recommendations are generated based on the selected genres.
+New updates in main 
 
 2. Recommendations:
 - Users receives a list of book recommendations.
